@@ -1,0 +1,5 @@
+C:\Users\Brian\Documents\trivia\C#\Trivia\.vs\Trivia\lut\13600\b\Trivia\bin\Debug\Trivia.exe
+C:\Users\Brian\Documents\trivia\C#\Trivia\.vs\Trivia\lut\13600\b\Trivia\bin\Debug\Trivia.pdb
+C:\Users\Brian\Documents\trivia\C#\Trivia\.vs\Trivia\lut\13600\i\Trivia\x86\Debug\Trivia.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\trivia\C#\Trivia\.vs\Trivia\lut\13600\i\Trivia\x86\Debug\Trivia.exe
+C:\Users\Brian\Documents\trivia\C#\Trivia\.vs\Trivia\lut\13600\i\Trivia\x86\Debug\Trivia.pdb

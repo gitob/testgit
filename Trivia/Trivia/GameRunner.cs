@@ -25,23 +25,14 @@ namespace Trivia
             aGame.add("Pat");
             aGame.add("Sue");
 
-
             do
             {
-
                 aGame.roll(random.Next(5) + 1);
 
                 if (random.Next(9) == 7)
-                {
                     notAWinner = aGame.wrongAnswer();
-                }
                 else
-                {
                     notAWinner = aGame.wasCorrectlyAnswered();
-                }
-
-
-
             } while (notAWinner);
         }
     }
